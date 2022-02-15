@@ -1,0 +1,17 @@
+
+element.style {
+    color: rgb(255, 255, 255);
+}
+.cookieConsentContainer {
+    z-index: 999;
+    width: 350px;
+    min-height: 20px;
+    box-sizing: border-box;
+    padding: 30px 30px 30px 30px;
+    background: #232323;
+    overflow: hidden;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    color: #fff;
+}
